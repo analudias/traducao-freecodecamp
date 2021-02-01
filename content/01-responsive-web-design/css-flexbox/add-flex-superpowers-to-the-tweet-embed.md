@@ -136,7 +136,7 @@ assert($('.stats').css('display') == 'flex');
   </div>
 </header>
 <div id="inner">
-  <p>I meet so many people who are in search of that one trick that will help them work smart. Even if you work smart, you still have to work hard.</p>
+  <p>Conheci tantas pessoas que estão a procura daquele truque que vai ajudá-los a trabalhar de maneira inteligente. Ainda que você trabalhe assim, você ainda vai ter que trabalhar duro.</p>
   <span class="date">1:32 PM - 12 Jan 2018</span>
   <hr>
 </div>
